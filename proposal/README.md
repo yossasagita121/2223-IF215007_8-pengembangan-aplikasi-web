@@ -66,3 +66,7 @@ Laporan
 |telepon|String|08382715468|
 |check_in|Date|12-09-2022|
 |check_out|Date|12-09-2023|
+
+
+## UX Wireframe
+<img width="1440" alt="proposal" src="https://user-images.githubusercontent.com/68968229/189554318-d9a07866-b7e3-4471-b16c-2e9cfe1e5309.png">
