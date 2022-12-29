@@ -61,30 +61,54 @@
 
 ## Cpanel operation
 
+![image](https://user-images.githubusercontent.com/68968229/209981105-a3f6baec-d908-4d81-ad2c-e48f13066fdc.png)
+
 ## Domain registration
+
+![image](https://user-images.githubusercontent.com/68968229/209982802-6b807ba4-2aed-40ba-9d14-d2d4864cc15f.png)
 
 ## HTML Responsive Layout with Media Query & Flexbox
 
+![image](https://user-images.githubusercontent.com/68968229/209983014-44128f40-93a3-448a-b694-a6e52bbfcb53.png)
+
 ## Javascript Data Transformation
+
+![image](https://user-images.githubusercontent.com/68968229/209983539-0cda6384-120e-4087-bfc1-d2cff2c0d40a.png)
 
 ## Browser API - Event Handling, Local Storage, Element manipulation
 
+![image](https://user-images.githubusercontent.com/68968229/209983948-d2cd773b-4dd4-4b9d-9dc8-a767b763f4c6.png)
+
 ## HTTP GET & POST using Form Action and Fetch API
 
-## PHP DB - Dynamic Web Page
+![image](https://user-images.githubusercontent.com/68968229/209985432-3f37125e-1363-49ba-bd57-2c93c2a4d48d.png)
+
+![image](https://user-images.githubusercontent.com/68968229/209985652-3cd99656-55ee-4f0e-9671-8197dcb12091.png)
 
 ## PHP DB - Web Service
 
+![image](https://user-images.githubusercontent.com/68968229/209986659-a6c42c2b-a7b7-4ed1-b5da-7d10ce36df5c.png)
+
+![image](https://user-images.githubusercontent.com/68968229/209986762-f87790c9-537b-47fc-a252-ff6832c29668.png)
+
+![image](https://user-images.githubusercontent.com/68968229/209986819-c9bca6d3-1e6c-4692-822d-d864d79baeb0.png)
+
 ## OOP-based PHP Project using Composer
+
+![image](https://user-images.githubusercontent.com/68968229/209987172-fc022778-06c1-4976-8599-aa74464e19f6.png)
 
 ## Deploy PHP Project to Cpanel
 
+![image](https://user-images.githubusercontent.com/68968229/209987572-2e3bda45-8018-42d8-aa82-17387f58418c.png)
+
 ## HTML Responsive Layout with Bootstrap
+
+![image](https://user-images.githubusercontent.com/68968229/209987757-3ec3f156-da27-4364-930d-cf365be61528.png)
 
 ## Single Page App with React & React-router
 
+![image](https://user-images.githubusercontent.com/68968229/209987894-e5d0e032-d785-4fd6-8f65-a2df33935601.png)
+
 ## Dynamic Web Page using Laravel
 
-## Web Service using Slim
-
-## News Site using Wordpress
+![image](https://user-images.githubusercontent.com/68968229/209988080-ab746518-c1fe-4fea-9706-024616db1565.png)
