@@ -15,13 +15,17 @@
 
 ![image](https://user-images.githubusercontent.com/68968229/209970123-27694467-b350-4f99-a6c2-0553cc5bd82c.png)
 
-## Node JS & NPM installation & hello world
+## PHP & Composer installation & hello world
 
-![image](https://user-images.githubusercontent.com/68968229/209970729-b9893938-aab5-4d3c-b293-4ded6bcbad0b.png)
+![image](https://user-images.githubusercontent.com/68968229/209978755-d62405c0-c2bc-451c-b5e6-a8bb0b87639c.png)
 
-`let message = "Hello, World!";`
+`<?php`
 
-`console.log(message);`
+  `$message = "Hello, World!";`
+  
+  `echo $message;`
+  
+`?>`
 
 ## PostgreSQL / MySQL installation
 
@@ -39,9 +43,21 @@
 
 ## NodeJS & NPM installation, operation & hello world
 
+![image](https://user-images.githubusercontent.com/68968229/209970729-b9893938-aab5-4d3c-b293-4ded6bcbad0b.png)
+
+`let message = "Hello, World!";`
+
+`console.log(message);`
+
 ## Linux server operation
 
+![image](https://user-images.githubusercontent.com/68968229/209979859-9d13c092-267c-41fd-bd2c-70331e202b0d.png)
+
 ## Nginx / Apache web server installation & operation
+
+![image](https://user-images.githubusercontent.com/68968229/209980420-f40c1b3e-3d8a-4bde-9553-73d4c10e0a16.png)
+
+![image](https://user-images.githubusercontent.com/68968229/209980466-a4885ee8-caff-4f7a-80e6-1723c24da67f.png)
 
 ## Cpanel operation
 
