@@ -41,6 +41,8 @@
 
 ![image](https://user-images.githubusercontent.com/68968229/209974930-05ac4ff7-1b82-4d9b-ab20-106ba36bd7fc.png)
 
+![image](https://user-images.githubusercontent.com/68968229/210078823-48af95d4-e9e3-4de1-bdff-6db63dd35f20.png)
+
 ## NodeJS & NPM installation, operation & hello world
 
 ![image](https://user-images.githubusercontent.com/68968229/209970729-b9893938-aab5-4d3c-b293-4ded6bcbad0b.png)
